@@ -1,1 +1,1 @@
-![Game img](images/sample=+-img.png)
+![Game img](images/sample-img.png)
